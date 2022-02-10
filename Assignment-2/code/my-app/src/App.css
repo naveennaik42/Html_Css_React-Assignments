@@ -1,7 +1,19 @@
+.app{
+  text-align: center;
+  
+}
+.info{
+  text-align:justify;
+}
+.p_info  {
+  display: block;
+  text-align:center;
+}
+
+/*
 .App {
   text-align: center;
 }
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +47,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
